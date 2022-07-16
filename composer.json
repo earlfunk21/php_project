@@ -1,0 +1,15 @@
+{
+    "name": "lenovo/practice-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "earlfunk21",
+            "email": "60378076+earlfunk21@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
